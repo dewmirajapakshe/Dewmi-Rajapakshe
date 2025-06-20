@@ -43,8 +43,8 @@
 <body>
   <div class="stats-container">
     <h1>Hi 👋, I'm Dewmi Rajapakshe</h1>
-    <h3>A passionate <strong>UI/UX Designer</strong> and <strong>Fullstack Developer</strong> from Sri Lanka,<br/>focused on crafting beautiful, responsive web experiences and scalable applications.</h3>
-
+    <h3>A passionate UI/UX Designer and Fullstack Developer from Sri Lanka,
+    focused on crafting beautiful, responsive web experiences and scalable applications.</h3>
     <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dewmirajapakshe&theme=radical" alt="dewmirajapakshe" /></a></p>
 
     <p><img src="https://komarev.com/ghpvc/?username=dewmirajapakshe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></p>
@@ -111,7 +111,7 @@
     const commits = [
       { x: 5, y: 5, color: 'green' }, { x: 6, y: 5, color: 'green' },
       { x: 7, y: 5, color: 'green' }, { x: 8, y: 5, color: 'purple' },
-      // Add more commit data as needed
+      // Add more commit data as needed to match your activity
     ];
 
     function drawGrid() {
