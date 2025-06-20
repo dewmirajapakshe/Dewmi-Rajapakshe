@@ -1,29 +1,147 @@
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub Stats - Dewmi Rajapakshe</title>
+  <style>
+    body {
+      background-color: #0d1117;
+      color: #c9d1d9;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+    .stats-container {
+      max-width: 900px;
+      text-align: center;
+    }
+    .github-stats {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    .stat-card {
+      background: #161b22;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      width: 250px;
+    }
+    .canvas-container {
+      margin: 20px 0;
+    }
+    canvas {
+      border: 1px solid #30363d;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <div class="stats-container">
+    <h1>Hi 👋, I'm Dewmi Rajapakshe</h1>
+    <h3>A passionate <strong>UI/UX Designer</strong> and <strong>Fullstack Developer</strong> from Sri Lanka,<br/>focused on crafting beautiful, responsive web experiences and scalable applications.</h3>
 
-<h2 align="center">🚀 GitHub Workflow Status</h2>
+    <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dewmirajapakshe&theme=radical" alt="dewmirajapakshe" /></a></p>
 
-<p align="center">
-  <a href="https://github.com/dewmirajapakshe?tab=actions" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/dewmirajapakshe/workflows/CI/badge.svg" alt="GitHub Workflow Status" />
-  </a>
-</p>
+    <p><img src="https://komarev.com/ghpvc/?username=dewmirajapakshe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></p>
 
-<p align="center" style="font-size: 1.1rem; color: #6c757d;">
-  Keeping the codebase clean and the builds green with <strong>continuous integration</strong> and <strong>automated workflows</strong>.
-</p>
+    <h3>Connect with me:</h3>
+    <p>
+      <a href="https://dewmirajapakshe.netlify.app/" target="_blank" rel="noopener noreferrer"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=about-dot-me" /></a>
+      <a href="https://linkedin.com/in/dewmi-rajapakshe-914006366" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dewmi-blue?style=for-the-badge&logo=linkedin" /></a>
+      <a href="mailto:dewmiozhadhi@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+    </p>
 
-<p align="center">
-  <img src="https://github.com/dewmirajapakshe/workflows/CI/badge.svg?style=for-the-badge" alt="Workflow Badge" />
-</p>
+    <h3>Languages and Tools:</h3>
+    <p>
+      <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /></a>
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
+      <a href="https://canvasjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40" /></a>
+      <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /></a>
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
+      <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
+      <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /></a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /></a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
+      <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /></a>
+      <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /></a>
+    </p>
 
-<p align="center">
-  <a href="https://github.com/dewmirajapakshe" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Actions-%E2%9C%85%20CI/CD-blueviolet?style=for-the-badge&logo=githubactions" alt="GitHub Actions" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/dewmirajapakshe" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Status-Always%20Improving-brightgreen?style=for-the-badge" alt="Status" />
-  </a>
-</p>
+    <h3>GitHub Stats:</h3>
+    <div class="canvas-container">
+      <canvas id="githubCanvas" width="900" height="150"></canvas>
+    </div>
+    <div class="github-stats">
+      <div class="stat-card">
+        <h4>Top Languages</h4>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dewmirajapakshe&show_icons=true&locale=en&layout=compact" alt="top languages" />
+      </div>
+      <div class="stat-card">
+        <h4>GitHub Stats</h4>
+        <img src="https://github-readme-stats.vercel.app/api?username=dewmirajapakshe&show_icons=true&locale=en" alt="github stats" />
+      </div>
+      <div class="stat-card">
+        <h4>Streak Stats</h4>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewmirajapakshe&" alt="streak stats" />
+      </div>
+    </div>
+  </div>
 
----
+  <script>
+    const canvas = document.getElementById('githubCanvas');
+    const ctx = canvas.getContext('2d');
+    const gridSize = 10;
+    const cols = canvas.width / gridSize;
+    const rows = canvas.height / gridSize;
+
+    // Sample data inspired by the image (green for commits, purple for highlights)
+    const commits = [
+      { x: 5, y: 5, color: 'green' }, { x: 6, y: 5, color: 'green' },
+      { x: 7, y: 5, color: 'green' }, { x: 8, y: 5, color: 'purple' },
+      // Add more commit data as needed
+    ];
+
+    function drawGrid() {
+      ctx.fillStyle = '#161b22';
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+      ctx.strokeStyle = '#30363d';
+      for (let i = 0; i <= cols; i++) {
+        ctx.beginPath();
+        ctx.moveTo(i * gridSize, 0);
+        ctx.lineTo(i * gridSize, canvas.height);
+        ctx.stroke();
+      }
+      for (let j = 0; j <= rows; j++) {
+        ctx.beginPath();
+        ctx.moveTo(0, j * gridSize);
+        ctx.lineTo(canvas.width, j * gridSize);
+        ctx.stroke();
+      }
+    }
+
+    function drawCommits() {
+      commits.forEach(commit => {
+        ctx.fillStyle = commit.color;
+        ctx.fillRect(commit.x * gridSize, commit.y * gridSize, gridSize - 1, gridSize - 1);
+      });
+    }
+
+    drawGrid();
+    drawCommits();
+  </script>
+</body>
+</html>
