@@ -1,31 +1,41 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dewmirajapakshe/dewmirajapakshe/main/assets/banner.gif" alt="Header Banner" width="100%"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Dewmi Rajapakshe</h1>
 <h3 align="center">
   A passionate <strong>UI/UX Designer</strong> and <strong>Fullstack Developer</strong> from Sri Lanka,<br/>
   focused on crafting beautiful, responsive web experiences and scalable applications.
 </h3>
 
+<div align="center">
+  <a href="https://github.com/dewmirajapakshe">
+    <img src="https://raw.githubusercontent.com/dewmirajapakshe/dewmirajapakshe/main/assets/profile-pic.png" alt="Dewmi Rajapakshe" width="200" style="border-radius: 50%; border: 3px solid #0366d6;"/>
+  </a>
+</div>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dewmirajapakshe&theme=radical" alt="dewmirajapakshe" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dewmirajapakshe&theme=algolia" alt="dewmirajapakshe" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dewmirajapakshe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dewmirajapakshe&label=Profile%20views&color=0366d6&style=flat" alt="profile views" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://dewmirajapakshe.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=about-dot-me" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0366d6?style=for-the-badge&logo=about-dot-me" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/dewmi-rajapakshe-914006366" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dewmi-blue?style=for-the-badge&logo=linkedin" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dewmi-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;
   <a href="mailto:dewmiozhadhi@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -100,24 +110,17 @@
 <div align="center">
   
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dewmirajapakshe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dewmirajapakshe&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&border_color=0366d6"/>
   
   <!-- Most Used Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewmirajapakshe&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewmirajapakshe&layout=compact&langs_count=8&theme=github_dark_dimmed&border_color=0366d6"/>
   
 </div>
 
 <div align="center">
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewmirajapakshe&theme=radical" alt="dewmirajapakshe" />
-  
-</div>
-
-<div align="center">
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dewmirajapakshe&theme=radical" alt="dewmirajapakshe's activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewmirajapakshe&theme=github-dark-blue&border=0366d6" alt="dewmirajapakshe" />
   
 </div>
 
@@ -126,23 +129,23 @@
 <div align="center">
   
   <!-- Contribution Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dewmirajapakshe&theme=radical" alt="dewmirajapakshe's contribution graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dewmirajapakshe&theme=github_dark" alt="dewmirajapakshe's contribution graph"/>
   
 </div>
 
 <div align="center">
   
   <!-- Stats Cards in a Row -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dewmirajapakshe&theme=radical" alt="dewmirajapakshe's top languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dewmirajapakshe&theme=radical" alt="dewmirajapakshe's most commit language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dewmirajapakshe&theme=github_dark" alt="dewmirajapakshe's top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dewmirajapakshe&theme=github_dark" alt="dewmirajapakshe's most commit language"/>
   
 </div>
 
 <div align="center">
   
   <!-- More Stats Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dewmirajapakshe&theme=radical" alt="dewmirajapakshe's stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dewmirajapakshe&theme=radical&utcOffset=5.5" alt="dewmirajapakshe's productive time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dewmirajapakshe&theme=github_dark" alt="dewmirajapakshe's stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dewmirajapakshe&theme=github_dark&utcOffset=5.5" alt="dewmirajapakshe's productive time"/>
   
 </div>
 
@@ -150,7 +153,7 @@
 
 <h3 align="center">🏆 GitHub Profile Trophy</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dewmirajapakshe&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="dewmirajapakshe's trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dewmirajapakshe&theme=algolia&no-frame=false&no-bg=false&margin-w=4&column=7" alt="dewmirajapakshe's trophies"/>
 </div>
 
 ---
@@ -158,7 +161,7 @@
 <div align="center">
   
   ### 👀 Profile Views
-  ![](https://komarev.com/ghpvc/?username=dewmirajapakshe&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+  ![](https://komarev.com/ghpvc/?username=dewmirajapakshe&color=0366d6&style=flat-square&label=PROFILE+VIEWS)
   
   ### ⭐ Show some ❤️ by starring some of my repositories!
   
