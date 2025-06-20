@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dewmi Rajapakshe</h1>
+  <h1 align="center">Hi 👋, I'm Dewmi Rajapakshe</h1>
 <h3 align="center">
   A passionate <strong>UI/UX Designer</strong> and <strong>Fullstack Developer</strong> from Sri Lanka,<br/>
   focused on crafting beautiful, responsive web experiences and scalable applications.
@@ -93,6 +93,11 @@
   </a>
 </p>
 
+<!-- Snake frame start -->
+<p align="center">  
+  🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍  
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dewmirajapakshe&show_icons=true&locale=en&layout=compact" alt="top languages" />
 </p>
@@ -104,3 +109,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewmirajapakshe&" alt="streak stats" />
 </p>
+
+<p align="center">  
+  🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍  
+</p>
+<!-- Snake frame end -->
