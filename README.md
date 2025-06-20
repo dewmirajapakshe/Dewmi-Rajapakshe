@@ -93,14 +93,73 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dewmirajapakshe&show_icons=true&locale=en&layout=compact" alt="top languages" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dewmirajapakshe&show_icons=true&locale=en" alt="github stats" />
-</p>
+<h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewmirajapakshe&" alt="streak stats" />
-</p>
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dewmirajapakshe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
+  <!-- Most Used Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewmirajapakshe&layout=compact&langs_count=8&theme=radical"/>
+  
+</div>
+
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewmirajapakshe&theme=radical" alt="dewmirajapakshe" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dewmirajapakshe&theme=radical" alt="dewmirajapakshe's activity graph" />
+  
+</div>
+
+### 📈 Contribution Stats
+
+<div align="center">
+  
+  <!-- Contribution Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dewmirajapakshe&theme=radical" alt="dewmirajapakshe's contribution graph"/>
+  
+</div>
+
+<div align="center">
+  
+  <!-- Stats Cards in a Row -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dewmirajapakshe&theme=radical" alt="dewmirajapakshe's top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dewmirajapakshe&theme=radical" alt="dewmirajapakshe's most commit language"/>
+  
+</div>
+
+<div align="center">
+  
+  <!-- More Stats Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dewmirajapakshe&theme=radical" alt="dewmirajapakshe's stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dewmirajapakshe&theme=radical&utcOffset=5.5" alt="dewmirajapakshe's productive time"/>
+  
+</div>
+
+---
+
+<h3 align="center">🏆 GitHub Profile Trophy</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dewmirajapakshe&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="dewmirajapakshe's trophies"/>
+</div>
+
+---
+
+<div align="center">
+  
+  ### 👀 Profile Views
+  ![](https://komarev.com/ghpvc/?username=dewmirajapakshe&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+  
+  ### ⭐ Show some ❤️ by starring some of my repositories!
+  
+</div>
